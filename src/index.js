@@ -1,4 +1,5 @@
-export { default as Test } from './components/Test';
+export { default as Column } from './components/Column';
+export { default as Row } from './components/Row';
 
 
 
