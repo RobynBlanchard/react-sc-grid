@@ -10,7 +10,6 @@ const BaseCol = styled.div`
 `;
 
 const Column = styled(BaseCol)`
-  background-color: blue;
   ${({ numCols, width }) => {
     return css`
       width: calc(
