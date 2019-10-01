@@ -27,7 +27,6 @@ module.exports = {
       amd: "react",
       umd: "react"
     },
-
     "styled-components": {
       root: "styled",
       commonjs2: "styled-components",

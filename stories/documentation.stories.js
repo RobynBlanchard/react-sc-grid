@@ -8,6 +8,7 @@ export default {
 
 const Col = styled(Column)`
   background-color: blue;
+  height: 50px;
 `
 
 export const grid = () => (
