@@ -8,7 +8,10 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "build"),
     filename: "[name].js",
-    libraryTarget: "commonjs2",
+    // libraryTarget: "commonjs2",
+    libraryTarget: 'umd',
+    globalObject: 'this',
+    library: 'reactSCGrid'
   },
   module: {
     rules: [
