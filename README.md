@@ -4,6 +4,10 @@ A simple React grid component built with Styled Components, adapted from Udemy c
 
 View example here: https://react-sc-grid-storybook.s3-eu-west-1.amazonaws.com/storybookS3/index.html?path=/story/example-usage--grid
 
+## Installation
+
+`npm i react-sc-grid`
+
 ## Usage
 
 ```javascript
