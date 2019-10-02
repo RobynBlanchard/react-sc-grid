@@ -10,6 +10,8 @@ View example here: https://react-sc-grid-storybook.s3-eu-west-1.amazonaws.com/st
 
 ## Usage
 
+Exports are `Column` and `Row` and the default gutter width is `8px`.
+
 ```javascript
 import { Column, Row } from 'react-sc-grid';
 
