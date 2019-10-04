@@ -8,6 +8,8 @@ View example here: https://react-sc-grid-storybook.s3-eu-west-1.amazonaws.com/st
 
 `npm i react-sc-grid`
 
+Peer dependencies are React and Styled Components
+
 ## Usage
 
 Exports are `Column` and `Row` and the default gutter width is `8px`.
